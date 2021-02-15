@@ -1,0 +1,9 @@
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.csprojAssemblyReference.cache
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.Form1.resources
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.Properties.Resources.resources
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.csproj.GenerateResource.cache
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\bin\Debug\Add_binary.exe.config
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\bin\Debug\Add_binary.exe
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\bin\Debug\Add_binary.pdb
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.exe
+E:\ХНУРЭ\III семестр\АКОКМ\ПЗ\пз2\Add_binary\obj\Debug\Add_binary.pdb
